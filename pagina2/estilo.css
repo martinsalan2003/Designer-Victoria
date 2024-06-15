@@ -67,12 +67,12 @@ h1 {
 p {
     color: white;
     text-align: center;
-    font-size: auto;
+    font-size: 15px;
     font-family: "Mulish";
 }
 .content {
     text-align: center;
-    border-radius: 20px;
+    border-radius: 15px;
    background-color: #e7a8b29f;
     margin: 3rem;
 }
